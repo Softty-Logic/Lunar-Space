@@ -20,6 +20,6 @@ https://softty-logic.github.io/Lunar-Space/
 Để chạy dự án này trên máy tính cá nhân:
 1. Clone dự án về máy.
 2. Mở bằng VS Code.
-3. Sử dụng tiện ích **Live Server** để mở file `view.html`.
+3. Sử dụng tiện ích **Live Server** để mở file `index.html`.
 
 --Một chốn dừng chân bình yên giữa đêm sao--
