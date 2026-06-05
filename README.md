@@ -14,7 +14,7 @@ Một tác phẩm 3D tối giản nơi thời gian ngưng đọng, Lunar Space l
 * **Hover**: Tương tác liếc mắt theo hướng di chuyển chuột.
 
 ## Demo
-https://softty-logic.github.io/Lunar-Space/
+https://softty-logic.github.io/Lunar-Space/index.html
 
 ## Cài đặt
 Để chạy dự án này trên máy tính cá nhân:
